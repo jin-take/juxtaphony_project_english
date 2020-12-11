@@ -1,8 +1,8 @@
-# Jaxtaphony Project
+# Juxtaphony Project
 
 <img src="https://github.com/jin237/jaxtaphony_project_english/blob/main/images/document_visual_theme_english.001.jpeg">
 
-### Project Overview and Significance by Jaxtaphony Project Team
+### Project Overview and Significance by Juxtaphony Project Team
 This project aims to minimize the risk of viral infection in "dense" conditions. Talking in a dense environment increases the risk of droplet infection, but "not talking" is impossible in daily life. Therefore, it has been reported that speaking in a whispered voice can reduce the amount of viruses and bacteria in the mouth. If we can realize "whispering" conversations, it will be possible to restore the social activities that were possible before the epidemic by wearing masks and avoiding groups.
 In this context, this project team would like to focus on and utilize "throat microphones" (also called throat microphones or bone conduction microphones) that can pick up small sounds at the throat to realize "whispered voice" conversations. In addition, by developing an application "SILENT - talking" using Bluetooth (a wireless communication function attached to smartphones, computers, etc.), we believe that we can quickly create an environment that is easy to use a throat microphone to realize conversations using a throat microphone. 
 
@@ -30,3 +30,5 @@ form Wikipedia：： ["Throat Microphone"](https://en.wikipedia.org/wiki/Throat_
 >With the advent of COVID-19 in 2020, throat microphone usage has expanded into other areas such as Hospital Emergency Rooms [1], Retail & Restaurants. This is because universal face mask usage and clear plastic physical dividers to enforce social distancing, has made face to face communications much more challenging with people having to raise their voice significantly to communicate.
 
 
+# What does the Juxtaphony Project do?
+"Jaxtaphony" is a word coined by combining "Jaxta" and "osteophony".
