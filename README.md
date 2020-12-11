@@ -1,6 +1,6 @@
 # jaxtaphony_project
 
-
+<img src="https://github.com/jin237/jaxtaphony_project_english/blob/main/images/document_visual_theme_english.001.jpeg">
 
 ### Project Overview and Significance by Jaxtaphony Project Team
 This project aims to minimize the risk of viral infection in "dense" conditions. Talking in a dense environment increases the risk of droplet infection, but "not talking" is impossible in daily life. Therefore, it has been reported that speaking in a whispered voice can reduce the amount of viruses and bacteria in the mouth. If we can realize "whispering" conversations, it will be possible to restore the social activities that were possible before the epidemic by wearing masks and avoiding groups.
@@ -8,6 +8,8 @@ In this context, this project team would like to focus on and utilize "throat mi
 
 ### What is a "throat microphone"?
 A "throat microphone" is a microphone that picks up voice through bone conduction around the larynx, and can pick up voice even in noisy or windy environments (Figure 1 on the right). Other types of microphones do not work well in the above environments due to high background noise. The higher the quality of the microphone, the more it can pick up "whispers" and thus enable communication with very little vocal volume.
+
+<img src="https://github.com/jin237/jaxtaphony_project_english/blob/main/images/ThroatMIC_Black.png" height=200px>
 
 
 ### What is "SILENT - talking"?
