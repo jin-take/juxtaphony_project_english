@@ -1,4 +1,4 @@
-# jaxtaphony_project
+# Jaxtaphony Project
 
 <img src="https://github.com/jin237/jaxtaphony_project_english/blob/main/images/document_visual_theme_english.001.jpeg">
 
