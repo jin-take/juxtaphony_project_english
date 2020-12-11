@@ -20,6 +20,7 @@ Chart１　4 Modes and the Contents on SILENT - talking
 | Party| Multitude | Enabling voice calls through host devices | 
 | Table-talk | Multitude | Realization of  random voice conversation in a fixed space |
 | Classroom | One-to-Multitude | Realization of lectures and classes through voice conversation via host devices |
+
 <br><br>
 # What is a "throat microphone"? (detail)
 form Wikipedia：： ["Throat Microphone"](https://en.wikipedia.org/wiki/Throat_microphone)
